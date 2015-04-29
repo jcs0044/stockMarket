@@ -1,0 +1,73 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_66d26c5d",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 16,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T19:37:44Z",
+      "side": 1,
+      "message": "Change variable name so its easier to follow",
+      "range": {
+        "startLine": 16,
+        "startChar": 8,
+        "endLine": 16,
+        "endChar": 9
+      },
+      "revId": "153ddd2167b71e151ce8f647888ecf91fcd70cc8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_46d7704b",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 21,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T19:37:44Z",
+      "side": 1,
+      "message": "Change variable",
+      "range": {
+        "startLine": 21,
+        "startChar": 7,
+        "endLine": 21,
+        "endChar": 8
+      },
+      "revId": "153ddd2167b71e151ce8f647888ecf91fcd70cc8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_e6c5bc8e",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 42,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T19:37:44Z",
+      "side": 1,
+      "message": "Change here",
+      "range": {
+        "startLine": 42,
+        "startChar": 6,
+        "endLine": 42,
+        "endChar": 7
+      },
+      "revId": "153ddd2167b71e151ce8f647888ecf91fcd70cc8",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
