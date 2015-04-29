@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_e6977c8e",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T19:35:59Z",
+      "side": 1,
+      "message": "Clean this up. Spacing appears to be there",
+      "range": {
+        "startLine": 36,
+        "startChar": 15,
+        "endLine": 37,
+        "endChar": 4
+      },
+      "revId": "7d5976384502c290368887dd0c366caaa9a65339",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_86f688f7",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 69,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T19:35:59Z",
+      "side": 1,
+      "message": "What is s? Make easier to understand variable name",
+      "range": {
+        "startLine": 69,
+        "startChar": 2,
+        "endLine": 69,
+        "endChar": 3
+      },
+      "revId": "7d5976384502c290368887dd0c366caaa9a65339",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
