@@ -1,0 +1,50 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_2b915df1",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 11,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T18:59:45Z",
+      "side": 1,
+      "message": "Change variable name to be more meaningful and understanding",
+      "range": {
+        "startLine": 11,
+        "startChar": 9,
+        "endLine": 11,
+        "endChar": 11
+      },
+      "revId": "d4875f660b8bdaff1d01768a7e98a4960eb906db",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_0b8e21d0",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 19,
+      "author": {
+        "id": 1004835
+      },
+      "writtenOn": "2015-04-29T18:59:45Z",
+      "side": 1,
+      "message": "Change variable name to be more meaningful and understanding",
+      "range": {
+        "startLine": 19,
+        "startChar": 9,
+        "endLine": 19,
+        "endChar": 11
+      },
+      "revId": "d4875f660b8bdaff1d01768a7e98a4960eb906db",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
