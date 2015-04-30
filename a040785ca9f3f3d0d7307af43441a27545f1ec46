@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_83ce682c",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 51,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-30T22:01:29Z",
+      "side": 1,
+      "message": "Moving this bracket to the line above and removing the line below it may improve readability. This is a suggestion, though.",
+      "range": {
+        "startLine": 50,
+        "startChar": 0,
+        "endLine": 51,
+        "endChar": 2
+      },
+      "revId": "a040785ca9f3f3d0d7307af43441a27545f1ec46",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
