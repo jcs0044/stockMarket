@@ -25,6 +25,23 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_5efa8343",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:13:35Z",
+      "side": 1,
+      "message": "Do you really need these amount of for loops and if statements?! If you have time try to use a better algorithm.",
+      "revId": "cd25321ce15483a1a478a0787a52c946fe2a1dde",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_3eb98715",
         "filename": "src/pkg/order/OrderBook.java",
         "patchSetId": 5
@@ -41,6 +58,29 @@
         "startChar": 7,
         "endLine": 51,
         "endChar": 12
+      },
+      "revId": "cd25321ce15483a1a478a0787a52c946fe2a1dde",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9ef07b68",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 5
+      },
+      "lineNbr": 55,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:13:35Z",
+      "side": 1,
+      "message": "Put these together in one if. too much if and loops made it weird.",
+      "range": {
+        "startLine": 54,
+        "startChar": 20,
+        "endLine": 55,
+        "endChar": 16
       },
       "revId": "cd25321ce15483a1a478a0787a52c946fe2a1dde",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
