@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_feaecf2c",
+        "filename": "src/pkg/util/OrderUtility.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 14,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:15:51Z",
+      "side": 1,
+      "message": "very long if, split that to 2 ifs",
+      "range": {
+        "startLine": 13,
+        "startChar": 3,
+        "endLine": 14,
+        "endChar": 66
+      },
+      "revId": "c703098a6b63e427a423a57513b60cbe5c3ed466",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
