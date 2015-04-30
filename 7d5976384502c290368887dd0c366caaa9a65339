@@ -25,6 +25,29 @@
     },
     {
       "key": {
+        "uuid": "1a106d94_38e23f2f",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 68,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:30:53Z",
+      "side": 1,
+      "message": "rename this.",
+      "range": {
+        "startLine": 68,
+        "startChar": 8,
+        "endLine": 68,
+        "endChar": 9
+      },
+      "revId": "7d5976384502c290368887dd0c366caaa9a65339",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
         "uuid": "1a106d94_86f688f7",
         "filename": "src/pkg/market/Market.java",
         "patchSetId": 1
