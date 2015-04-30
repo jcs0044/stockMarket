@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_de9dd30b",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:15:07Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "efc0c49a827577379118cedfc0d5e11e62e0b259",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_bea29748",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:15:07Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "efc0c49a827577379118cedfc0d5e11e62e0b259",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_1e8bebc3",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 104,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:15:07Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "efc0c49a827577379118cedfc0d5e11e62e0b259",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
