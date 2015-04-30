@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_588e1b7a",
+        "filename": "src/pkg/order/OrderBook.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 60,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:30:10Z",
+      "side": 1,
+      "message": "Long long comments. Delete it.",
+      "range": {
+        "startLine": 51,
+        "startChar": 2,
+        "endLine": 60,
+        "endChar": 37
+      },
+      "revId": "924febe4634e21466b175cbbdf0428520c4048a4",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
