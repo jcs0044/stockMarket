@@ -16,6 +16,23 @@
       "revId": "ef1e368d4fa55c9ac9fb2bed76ef2516ca4edc67",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_c3ea20ab",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 53,
+      "author": {
+        "id": 1004833
+      },
+      "writtenOn": "2015-04-30T21:55:49Z",
+      "side": 1,
+      "message": "Is this comment necessary? It may be and I\u0027m just not understanding its use, so consider this just a suggestion.",
+      "revId": "ef1e368d4fa55c9ac9fb2bed76ef2516ca4edc67",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
