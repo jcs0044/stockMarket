@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_3846bf4f",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 20,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:26:12Z",
+      "side": 1,
+      "message": "I think we do not need super() in this file.",
+      "revId": "7101941b721a8df51446004871fc44e8f6d146a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_382fdf89",
+        "filename": "src/pkg/market/MarketHistory.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 50,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:26:12Z",
+      "side": 1,
+      "message": "Delete this comment.",
+      "revId": "7101941b721a8df51446004871fc44e8f6d146a0",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
