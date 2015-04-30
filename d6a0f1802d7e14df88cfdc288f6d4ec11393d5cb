@@ -1,0 +1,90 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_de42f366",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:17:41Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "revId": "d6a0f1802d7e14df88cfdc288f6d4ec11393d5cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_be473776",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:17:41Z",
+      "side": 1,
+      "message": "Bad comment! Remove it.",
+      "range": {
+        "startLine": 18,
+        "startChar": 5,
+        "endLine": 18,
+        "endChar": 6
+      },
+      "revId": "d6a0f1802d7e14df88cfdc288f6d4ec11393d5cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_9e4cfb9f",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 129,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:17:41Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 129,
+        "startChar": 34,
+        "endLine": 129,
+        "endChar": 35
+      },
+      "revId": "d6a0f1802d7e14df88cfdc288f6d4ec11393d5cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3e7ce7b4",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 4
+      },
+      "lineNbr": 147,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:17:41Z",
+      "side": 1,
+      "message": "Bad variable name! Variable names should be clear enough. Rename it.",
+      "range": {
+        "startLine": 147,
+        "startChar": 13,
+        "endLine": 147,
+        "endChar": 14
+      },
+      "revId": "d6a0f1802d7e14df88cfdc288f6d4ec11393d5cb",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
