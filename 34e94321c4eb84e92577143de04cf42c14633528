@@ -1,0 +1,38 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_32154040",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 15,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-30T18:12:11Z",
+      "side": 1,
+      "message": "Can remove this comment as well as the variable name suggests the same meaning.",
+      "revId": "34e94321c4eb84e92577143de04cf42c14633528",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5218bc74",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 18,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-30T18:12:11Z",
+      "side": 1,
+      "message": "Can remove this comment as well as the variable name suggests the same meaning.",
+      "revId": "34e94321c4eb84e92577143de04cf42c14633528",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
