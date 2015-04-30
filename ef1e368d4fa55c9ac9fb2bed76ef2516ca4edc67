@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_9884135f",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 40,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:29:10Z",
+      "side": 1,
+      "message": "Delete this comment, since whenever you add or remove a trader you need to change the comment as well",
+      "revId": "ef1e368d4fa55c9ac9fb2bed76ef2516ca4edc67",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
