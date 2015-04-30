@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "1a106d94_9e651b20",
+        "filename": "src/pkg/market/Market.java",
+        "patchSetId": 2
+      },
+      "lineNbr": 66,
+      "author": {
+        "id": 1004776
+      },
+      "writtenOn": "2015-04-30T23:16:20Z",
+      "side": 1,
+      "message": "Add a comment here!",
+      "revId": "d1398d7cd718804a5743ba67bdcf4eb45a04ce17",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
