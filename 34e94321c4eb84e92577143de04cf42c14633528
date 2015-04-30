@@ -33,6 +33,75 @@
       "revId": "34e94321c4eb84e92577143de04cf42c14633528",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_5860dbce",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 37,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:28:03Z",
+      "side": 1,
+      "message": "Long comments! Delete them, you do not need to explain in such details.",
+      "range": {
+        "startLine": 31,
+        "startChar": 2,
+        "endLine": 37,
+        "endChar": 11
+      },
+      "revId": "34e94321c4eb84e92577143de04cf42c14633528",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_989d33bf",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 62,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:28:03Z",
+      "side": 1,
+      "message": "Long comments! Delete them, you do not need to explain in such details.",
+      "range": {
+        "startLine": 51,
+        "startChar": 2,
+        "endLine": 62,
+        "endChar": 30
+      },
+      "revId": "34e94321c4eb84e92577143de04cf42c14633528",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_d8a32bfe",
+        "filename": "src/pkg/trader/Trader.java",
+        "patchSetId": 3
+      },
+      "lineNbr": 157,
+      "author": {
+        "id": 1004775
+      },
+      "writtenOn": "2015-04-30T20:28:03Z",
+      "side": 1,
+      "message": "Long comments! Delete them, you do not need to explain in such details.",
+      "range": {
+        "startLine": 150,
+        "startChar": 2,
+        "endLine": 157,
+        "endChar": 31
+      },
+      "revId": "34e94321c4eb84e92577143de04cf42c14633528",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
