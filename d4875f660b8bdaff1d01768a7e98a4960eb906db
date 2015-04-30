@@ -45,6 +45,23 @@
       "revId": "d4875f660b8bdaff1d01768a7e98a4960eb906db",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "1a106d94_3496d53f",
+        "filename": "src/pkg/client/Client.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 1004749
+      },
+      "writtenOn": "2015-04-30T06:34:06Z",
+      "side": 1,
+      "message": "The number of traders created are more than 10. The comment isnt consistent with the code.",
+      "revId": "d4875f660b8bdaff1d01768a7e98a4960eb906db",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
